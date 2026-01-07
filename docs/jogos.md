@@ -229,7 +229,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos da cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
-### 🌟 [World of PC](https://worldofpcgames.com/)
+### 🔗 [World of PC](https://worldofpcgames.com/)
 
 - Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
@@ -362,7 +362,8 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
 ### 🧲 [Ecológica Verde](https://x.com/Ecologica2Verde)
-:::warning Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retiradas de uma fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco. Caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
+:::warning Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retiradas de uma fonte não confiável [IGG Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco.
+Caso for utilizar mesmo assim, cheque de qual fonte foi retirada o jogo/programa antes de baixar e executar.
 :::
 
 - Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
